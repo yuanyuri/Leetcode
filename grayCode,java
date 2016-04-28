@@ -1,0 +1,7 @@
+import java.util.*;
+
+public class GrayCode {
+    public String[] getGray(int n) {
+        // write code here
+    }
+}
