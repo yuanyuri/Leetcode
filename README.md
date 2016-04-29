@@ -1,2 +1,2 @@
 # Leetcode
-Leetcode Solution for classcical  problems
+Leetcode Solutions for classical problems
